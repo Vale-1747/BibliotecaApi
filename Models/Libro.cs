@@ -11,7 +11,7 @@ namespace BibliotecaApi.Models
         public string Tema {get; set;}
 
         //Nuevo
-        public List<Capitulo> Capitulos { get; set; } = new();
+        //public List<Capitulo> Capitulos { get; set; } = new();
         //
         public Libro(int id, string titulo, string autor, string isbn, string tema)
         {
