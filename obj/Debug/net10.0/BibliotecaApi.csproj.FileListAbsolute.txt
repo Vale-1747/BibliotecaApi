@@ -31,3 +31,4 @@ C:\Users\PC\OneDrive - uap.edu.ar\Ejercicios progra1\PRogra 2\BibliotecaApi\obj\
 C:\Users\PC\OneDrive - uap.edu.ar\Ejercicios progra1\PRogra 2\BibliotecaApi\obj\Debug\net10.0\BibliotecaApi.pdb
 C:\Users\PC\OneDrive - uap.edu.ar\Ejercicios progra1\PRogra 2\BibliotecaApi\obj\Debug\net10.0\BibliotecaApi.genruntimeconfig.cache
 C:\Users\PC\OneDrive - uap.edu.ar\Ejercicios progra1\PRogra 2\BibliotecaApi\obj\Debug\net10.0\ref\BibliotecaApi.dll
+C:\Users\PC\OneDrive - uap.edu.ar\Ejercicios progra1\PRogra 2\BibliotecaApi\obj\Debug\net10.0\BibliotecaApi.sourcelink.json
