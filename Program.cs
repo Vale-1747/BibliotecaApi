@@ -1,3 +1,8 @@
+//comandos para bajar del repositorio remoto:
+//git remote -v -- Para ver los repositorios remotos
+//git pull --para unir lo de el profe con mi verxion
+//git fetch -- revisar su subio algn cambia antes de unirlo con el mio
+
 using BibliotecaApi.Services;
 using BibliotecaApi.Interfaces;
 var builder = WebApplication.CreateBuilder(args);
